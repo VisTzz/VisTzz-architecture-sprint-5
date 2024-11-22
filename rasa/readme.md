@@ -1,0 +1,1 @@
+rasa run --enable-api -vv --cors * --log-file LOG_FILE
